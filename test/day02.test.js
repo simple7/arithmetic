@@ -5,5 +5,5 @@ test('数组中重复数字01', () => {
 });
 
 test('数组中重复数字02', () => {
-    expect(findRepeatNumber01([2, 1, 0, 2])).toBe(2);
+    expect(findRepeatNumber02([2, 1, 0, 2])).toBe(2);
 });
